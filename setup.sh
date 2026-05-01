@@ -18,3 +18,7 @@ bash -c "cat ./bashrc >> ~/.bashrc"
 
 # bash_profile
 bash -c "cat ./bash_profile >> ~/.bash_profile"
+
+# MyVimRC
+git clone https://github.com/b4zh/MyVimRC.git
+cp ./MyVimRC/vimrc ~/.vimrc
