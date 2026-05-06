@@ -43,4 +43,4 @@ cet -c
         - Mostrar el **número de paquetes a actualizar** en el sistema.
         - Al hacer clic en la barra se despliega un **menú** desde el cuál puedo gestionar **el sonido, el brillo** y algo más.
 
-- [ ] Añadir el .vimrc
+- [x] Añadir el .vimrc
